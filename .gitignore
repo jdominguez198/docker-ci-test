@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea
+
+vendor
+.env
+logs/*
+!logs/.gitkeep
+data/*
+!data/.gitkeep
